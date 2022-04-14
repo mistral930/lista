@@ -1,4 +1,5 @@
 #EXTM3U
+https://iptv-org.github.io/iptv/countries/ma.m3u
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",2M MAROC
 http://red.ipfox.org:8080/amer/amer1234/34855?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",AL AOULA INTER
