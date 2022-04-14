@@ -1,7 +1,8 @@
 #EXTM3U
+https://iptv-org.github.io/iptv/countries/ma.m3u
 https://iptvcat.com/my_list/s/ff79abd5984de31e9a988f38ca1ea363.m3u8
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",2M MAROC MAMA 
-https://iptv-org.github.io/iptv/countries/ma.m3u
+https://iptvcat.com/my_list/s/ff79abd5984de31e9a988f38ca1ea363.m3u8
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",2M MAROC
 http://red.ipfox.org:8080/amer/amer1234/34855?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",AL AOULA INTER
