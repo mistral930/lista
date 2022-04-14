@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",2M MAROC
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",2M MAROC
 http://red.ipfox.org:8080/amer/amer1234/34855?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",AL AOULA INTER
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",AL AOULA INTER
 http://red.ipfox.org:8080/amer/amer1234/34857?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ALMAGHRIBIA
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",ALMAGHRIBIA
 http://red.ipfox.org:8080/amer/amer1234/34858?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ARRYADIA
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",ARRYADIA
 http://red.ipfox.org:8080/amer/amer1234/34859?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ASSADISSA
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",ASSADISSA
 http://red.ipfox.org:8080/amer/amer1234/34860?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ATHAQAFIA
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",ATHAQAFIA
 http://red.ipfox.org:8080/amer/amer1234/34861?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",LAAYOUNETV
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",LAAYOUNETV
 http://red.ipfox.org:8080/amer/amer1234/34862?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Undefined",M24 TV
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="marruecos",M24 TV
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",M24 TV (720p) [Not 24/7]
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",M24 TV (720p) [Not 24/7]
 https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",MEDI1-TV HD
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",MEDI1-TV HD
 http://red.ipfox.org:8080/amer/amer1234/34864?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",Medi 1 TV Afrique (1080p)
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Medi 1 TV Afrique (1080p) [Not 24/7]
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",Medi 1 TV Afrique (1080p) [Not 24/7]
 http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",TAMAZIGHT
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",TAMAZIGHT
 http://red.ipfox.org:8080/amer/amer1234/34863?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",TELE MAROC
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",TELE MAROC
 http://red.ipfox.org:8080/amer/amer1234/34856?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
