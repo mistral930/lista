@@ -1,5 +1,7 @@
 #EXTM3U
 https://iptv-org.github.io/iptv/countries/ma.m3u
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",2M MAROC 2
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",2M MAROC este si funciona
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",2M MAROC
