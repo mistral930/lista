@@ -1,5 +1,6 @@
 srt://192.168.18.7:10000?mode=caller
 #EXTM3U
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="directooooo",yo en directo
 srt://192.168.18.7:10000?mode=caller
 https://iptv-org.github.io/iptv/countries/ma.m3u
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="marruecos",2M MAROC 2
