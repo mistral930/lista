@@ -108,4 +108,6 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/225140?checkedby:ipt
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="funciona",Télé Maroc
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" https://list.iptvcat.com/my_list/s/fa68bedc685bf891d65d7d5b28adedba.m3u8 group-title="mbc drama nuevo",Télé Maroc
+#EXTINF:0 tvg-country="MA" https://list.iptvcat.com/my_list/7868b699ad659238a8d14007ac941400.m3u8 group-title="mbc dramas",Télé Maroc
 
