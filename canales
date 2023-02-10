@@ -114,4 +114,5 @@ https://list.iptvcat.com/my_list/s/fa68bedc685bf891d65d7d5b28adedba.m3u8
 https://list.iptvcat.com/my_list/s/d94be76febde9e5b9dec3e1d7a5ed185.m3u8
 #EXTINF:0 tvg-country="MA group-title="funciona",mbc drama 1080
 https://list.iptvcat.com/my_list/s/f6e18643e02b498dcc7d08f0ef45efb5.m3u8
-
+#EXTINF:0 tvg-country="MA group-title="funciona",mbc drama original
+https://list.iptvcat.com/my_list/s/645df19d8fbc4093c670389a5e8b6503.m3u8
