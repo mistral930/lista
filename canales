@@ -4393,17 +4393,6 @@ http://m-iptv.net:6204/live/alas/jd73cfe9ht6fz/10716.ts
 #EXTINF:-1 tvg-id="" tvg-name="AFN Sport HD 2" tvg-logo="" group-title="USA",AFN Sport HD 2
 http://m-iptv.net:6204/live/alas/jd73cfe9ht6fz/10715.ts
 Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-livetv/1YEARTV at 84632b70b11b0180ec988cf100e55cf752e6acd3 · dasko2018/livetv
+
+#EXTINF:-1 tvg-id="" tvg-name="arabic" 
+https://iptv-org.github.io/iptv/languages/ara.m3u
